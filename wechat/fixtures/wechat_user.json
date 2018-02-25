@@ -1,0 +1,4 @@
+[
+  {"model": "wechat.user", "pk": 1, "fields": {"open_id": "1", "student_id": "2015013194"}},
+  {"model": "wechat.user", "pk": 2, "fields": {"open_id": "2", "student_id": ""}}
+]

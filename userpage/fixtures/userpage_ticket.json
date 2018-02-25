@@ -1,0 +1,6 @@
+[
+  {"model": "wechat.ticket", "pk": 1, "fields": {"student_id": "1", "unique_id": "3739b75a-03e6-4911-96c0-5a28e821943d", "activity": 1, "status": 1}},
+  {"model": "wechat.ticket", "pk": 2, "fields": {"student_id": "-1", "unique_id": "3739b75a-03e6-4911-96c0-5a28e821943e", "activity": 1, "status": 1}},
+  {"model": "wechat.ticket", "pk": 3, "fields": {"student_id": "2015", "unique_id": "3739b75a-03e6-4911-96c0-5a28e821943f", "activity": 1, "status": 1}},
+  {"model": "wechat.ticket", "pk": 4, "fields": {"student_id": "2", "unique_id": "3739b75a-03e6-4911-96c0-5a28e821943g", "activity": 1, "status": 1}}
+]
